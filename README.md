@@ -33,6 +33,10 @@ Avem grafice si analiza pentru a intelege eficienta in timp al produsului
 
 
 
+Aici ne vor aparea alertele pe care la care tot noi setam pragurile 
+
+
+
 
 
 
