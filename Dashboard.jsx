@@ -13,8 +13,8 @@ function Dashboard() {
     });
     
     const [leds, setLeds] = useState({
-        led1: { active: false, intensity: 50, label: 'LED inaltime : 50cm' },
-        led2: { active: false, intensity: 50, label: 'LED Inaltime 150cm' }
+        led1: { active: false, intensity: 50, label: 'Lumina artificiala zona 1' },
+        led2: { active: false, intensity: 50, label: 'Lumina artificiala zona 2' }
     });
 
     // Adăugăm state pentru pompe

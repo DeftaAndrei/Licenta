@@ -10,7 +10,7 @@ function Alerts() {
         system: { count: 0, active: true }
     });
 
-    // Praguri pentru alerte (preluate din Dashboard)
+    // Praguri pentru alerte preluate din Dashboard In acest moment sunt setate la valorile default  dar in viitor vom folosi si monitoriza senzorii nostrii pe care ii avem montatii in sere de sticla si le vom putea controla de la distanta
     const ALERT_THRESHOLDS = {
         temperature: {
             day: {
@@ -18,8 +18,8 @@ function Alerts() {
                 critical: { min: 10, max: 35 }
             },
             night: {
-                optimal: { min: 16, max: 18 },
-                critical: { min: 10, max: 22 }
+                optimal: { min: 20, max: 30 },
+                critical: { min: 6, max: 24 }
             }
         },
         humidity: {
@@ -81,7 +81,7 @@ function Alerts() {
     // Funcție pentru a crea o notificare
     const createNotification = (title, message, severity, category) => {
         if (notificationPermission === 'granted') {
-            const notification = new Notification(title, {
+            const Notification = new Notification(title, {
                 body: message,
                 icon: getAlertIcon(severity, category)
             });
@@ -387,6 +387,7 @@ function Alerts() {
                         ))
                 )}
             </div>
+                                  // Vrea sa zic  ca e parte de css si cu aceasta parte stilizam toata pagina si pe langa asta facem scalarea pagini in asa fel incat sa ni se deschida bine si dupa telefon siu dupa laptop
 
             <style jsx>{`
                 .alerts-page {
