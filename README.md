@@ -3,7 +3,7 @@ Noi trebuie sa avem senzori care detecteaza ce valorii ale anumitor elemente si 
 
 
 
-Acesta este panoul de comanda alaplicatiei mele
+Acesta este panoul de comanda
 
 
 ![image](https://github.com/user-attachments/assets/fee05197-2b09-48f8-a28f-fcfefa3e525d)
@@ -18,6 +18,11 @@ Oameni care fac aceasta afacere trebuie sa isi aleaga singuri parametri in care 
 ![image](https://github.com/user-attachments/assets/9d5caa6d-6789-4023-b2ba-e786dbc500ec)
 Aici vom primi notificari daca sunt conditii ideal pentru cresterea plantelor , intodeauna vrem sa fim la tinem totul in parametri setati de noi
 ![image](https://github.com/user-attachments/assets/420a5a89-a168-4c72-b147-5bd8da3b75e8)
+
+
+Mix macronutrienti :
+![image](https://github.com/user-attachments/assets/44601d11-eedb-4a12-ab52-9accaee37e43)
+
 
 
 Avem grafice si analiza pentru a intelege eficienta in timp al produsului 
