@@ -33,7 +33,9 @@ Avem grafice si analiza pentru a intelege eficienta in timp al produsului
 
 
 
-Aici ne vor aparea alertele pe care la care tot noi setam pragurile 
+Aici ne vor aparea alertele acestea depinzand de ce praguri setam
+![image](https://github.com/user-attachments/assets/0bb5dad9-48f7-4693-9d42-4319057a39d4)
+
 
 
 
