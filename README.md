@@ -1,9 +1,9 @@
 Aceasta este apolicatia mea de la licenta cu care voi controla totul la perfectie .
-Noi trebuie sa avem senzori care detecteaza ce valorii ale anumitor elemente si prin cateva lucruri facem automatizarea lor .
+We need to make embeded , but integrate that in React  Web App 
 
 
 
-Acesta este panoul de comanda
+This is Dashboard (Control Panel)
 
 
 ![image](https://github.com/user-attachments/assets/fee05197-2b09-48f8-a28f-fcfefa3e525d)
