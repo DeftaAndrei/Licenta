@@ -1,4 +1,4 @@
-Aceasta este apolicatia mea de la licenta cu care voi controla totul la perfectie .
+
 We need to make embeded , but integrate that in React  Web App 
 
 
